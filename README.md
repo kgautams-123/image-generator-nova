@@ -82,7 +82,7 @@ streamlit run image_generator.py
 ## Project Structure
 
 ```
-ai-image-generator/
+image-generator-nova/
 ├── image_generator.py.py              # Main Streamlit application
 ├── requirements.txt                   # Python dependencies
 ├── README.md                          # Project documentation
